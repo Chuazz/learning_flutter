@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:learning/components/my_typography.dart';
+import 'package:learning/components/my_image.dart';
 
 void main() {
   runApp(MaterialApp(
@@ -10,7 +10,7 @@ void main() {
         Color.fromARGB(66, 0, 0, 0),
         Color.fromARGB(255, 233, 153, 153),
       ])),
-      child: const Center(child: MTypography("Hello world")),
+      child: const Center(child: MImage('assets/images/girl2.png')),
     ),
   )));
 }
