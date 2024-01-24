@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:learning/components/random_image.dart';
 
-class App extends StatelessWidget {
-  const App({super.key});
+class RollImage extends StatelessWidget {
+  const RollImage({super.key});
 
   @override
   Widget build(BuildContext context) {
