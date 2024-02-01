@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:learning/components/my_image.dart';
+import 'package:learning/feature/roll_image/component/my_image.dart';
 
 class RandomImage extends StatefulWidget {
   const RandomImage({super.key});

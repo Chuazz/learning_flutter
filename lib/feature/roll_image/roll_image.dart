@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:learning/components/random_image.dart';
+import 'package:learning/feature/roll_image/component/random_image.dart';
 
 class RollImage extends StatelessWidget {
   const RollImage({super.key});
